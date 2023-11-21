@@ -28,7 +28,7 @@
 }
 
 .search {
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 .search input:hover {
@@ -36,7 +36,6 @@
 }
 
 #navbar {
-    background-color: var(--primary-color);
     color: black;
     display: flex;
     justify-content: space-between;
@@ -68,6 +67,5 @@
 }
 
 #navbar ul li a:hover {
-    background-color: var(--secondary-color);
     border-radius: 5px;
 }
